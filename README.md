@@ -145,7 +145,7 @@ java -jar Eternity.jar -r8 -c8 -p puzzles8x8.txt
 java -jar Eternity.jar -r16 -c16 -p puzzles16x16.txt
 
 # Mentett állapotból folytatás
-java -jar Eternity.jar -r8 -c8 -p puzzles8x8.txt -s state_20170515165821992.eii
+java -jar Eternity.jar -r8 -c8 -p puzzles16x16.txt -s state_20170515165821992.eii
 ```
 
 ### Puzzle Fájl Formátum
