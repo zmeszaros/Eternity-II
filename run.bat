@@ -1,0 +1,1 @@
+java -jar Eternity.jar -r8 -c8 -p puzzles8x8.txt
